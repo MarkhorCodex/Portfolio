@@ -984,6 +984,18 @@ video {
   height: 100%;
 }
 
+.h-\[480px\] {
+  height: 480px;
+}
+
+.h-\[550px\] {
+  height: 550px;
+}
+
+.h-\[450px\] {
+  height: 450px;
+}
+
 .w-12 {
   width: 3rem;
 }
@@ -2575,6 +2587,26 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-\[28px\] {
+  font-size: 28px;
+}
+
+.text-\[321px\] {
+  font-size: 321px;
+}
+
+.text-\[32px\] {
+  font-size: 32px;
+}
+
+.text-\[31px\] {
+  font-size: 31px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
 }
 
 .font-bold {
